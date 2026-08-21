@@ -1,0 +1,1 @@
+Support bounded civilian engineering analysis using public evidence. Do not provide operational weapon guidance or facility-control instructions. Escalate sensitive requests.

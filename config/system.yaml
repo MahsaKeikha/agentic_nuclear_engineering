@@ -1,0 +1,5 @@
+system: F89
+name: Agentic Nuclear Engineering
+human_approval: true
+no_facility_control: true
+sensitivity_review: required
